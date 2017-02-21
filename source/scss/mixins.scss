@@ -1,0 +1,17 @@
+@mixin navbar-theme ($navbar-border, $navbar-bgColor, $navbar-links-color) {
+  border: $navbar-border;
+  background-color: $navbar-bgColor;
+  color: $navbar-links-color;
+}
+
+.brazil-theme {
+  @include navbar-theme(2px solid blue, green, yellow);
+}
+
+.germany-theme {
+  @include navbar-theme(2px solid red, yellow, black);
+}
+
+.usa-theme {
+  @include navbar-theme(2px solid red, blue, white);
+}

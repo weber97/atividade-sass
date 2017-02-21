@@ -1,0 +1,21 @@
+//component-navbar
+$navbar-bgColor: white;
+$navbar-border: 2px solid black;
+
+//component-navbar > brand
+$navbar-brand-display: inline-block;
+
+//component-navbar > links
+$navbar-links-color: red;
+$navbar-links-textDecoration: none;
+$navbar-links-fontSize: 20px;
+$navbar-links-hoverColor: black;
+$navbar-links-textTransform: uppercase;
+$navbar-links-hoverBgColor: red;
+
+//component-navbar > buttons
+$navbar-buttons-display: inline;
+
+//component-navbar > list
+$navbar-list-display: inline-block;
+$navbar-list-style: none;

@@ -1,0 +1,11 @@
+.navbar-links {
+  color: $navbar-links-color;
+  text-decoration: $navbar-links-textDecoration;
+  font-size: $navbar-links-fontSize;
+  text-transform: $navbar-links-textTransform;
+}
+
+.navbar-links:hover {
+  color: $navbar-links-hoverColor;
+  background-color: $navbar-links-hoverBgColor;
+}
