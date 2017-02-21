@@ -1,4 +1,4 @@
-# Atividade Workflow
+# Atividade SASS
 
-Atividade prática do módulo Workflow - Treinamento Certificação Bootstrap
+Atividade prática do módulo Css Inteligente com SASS - Treinamento Certificação Bootstrap
 
